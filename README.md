@@ -6,4 +6,11 @@ Salary Prediction Project (PYthon)
 ### Focus 
           •	Software Engineering
           •	Data Visualization
-          •	Data Analysis
+          •	Data Analysis (Load data, Data cleaning)
+
+
+### Solutions
+          • Linear Regression
+          • Random Forest
+          • Ridge Regression
+          • Gradient Boosting
